@@ -1,0 +1,9 @@
+[package]
+name = "gif-test"
+version = "0.1.0"
+authors = ["Florian Czarnecki <florian.czarnecki@adesso.de>"]
+edition = "2018"
+
+[dependencies]
+gif = "0.10.1"
+rand = "0.6.5"
